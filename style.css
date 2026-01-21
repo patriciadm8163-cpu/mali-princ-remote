@@ -128,7 +128,7 @@ nav,a{
 }
 .button{
     background-color: rgb(99, 47, 82);
-    border: rgb(255, 255, 255) solid 2px;
+    border: rgb(243, 235, 235) solid 2px;
     color: white;
 }
 .button:hover{
